@@ -5,7 +5,7 @@ Contacts: marine.dallo@etu.umontpellier, sabri-nazim.mechkouri@etu.umontpellier.
 
 Ce git est composé des documents suivant : 
 - rapport présentant les résultats de l'analyse des souches P15, P30 et P50 ainsi que de la comparaison d'outil d'appel de variants
-- les 6 fichiers merged simplifiés issus des outils d'appel de variants testés
+- 1 fichier merged simplifié issus des trois passages P15, P30 et P50
 - des Graph de Venn présentant les résultats 
 
 # Objectifs : 
